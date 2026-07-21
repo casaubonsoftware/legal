@@ -1,11 +1,11 @@
 ---
 ---
-# Privacy Policy — Food Diary
+# Privacy Policy — How I Ate
 
 **Last updated: 21 July 2026**
 
-This Privacy Policy explains how the **Food Diary** mobile app ("the App", "we",
-"us") collects, uses, and protects your information. Food Diary lets you log meals
+This Privacy Policy explains how the **How I Ate** mobile app ("the App", "we",
+"us") collects, uses, and protects your information. How I Ate lets you log meals
 by photo and record digestive symptoms to help you spot patterns over time.
 
 The App is provided by **Casaubon B.V.**, based in **the Netherlands**. If you have
@@ -16,7 +16,7 @@ any questions, contact us at **support@casaubonsoftware.nl**.
 ## 1. Information we collect
 
 We only collect what the App needs to work. You do **not** have to give us your name
-to use Food Diary — you can use it with an anonymous account.
+to use How I Ate — you can use it with an anonymous account.
 
 | Data | What it is | Why we collect it |
 |------|-----------|-------------------|
@@ -86,7 +86,7 @@ take reasonable measures to protect your information.
 
 ## 7. Children's privacy
 
-Food Diary is not directed to children and is intended for users aged 16 and over
+How I Ate is not directed to children and is intended for users aged 16 and over
 (or the minimum age required in your country). We do not knowingly collect data from
 children. If you believe a child has provided us data, contact us and we will delete
 it.
@@ -100,7 +100,7 @@ consent. You can exercise most of these directly in the App, or by contacting us
 
 ## 9. Medical disclaimer
 
-Food Diary is a self-tracking tool, **not** a medical device, and does not provide
+How I Ate is a self-tracking tool, **not** a medical device, and does not provide
 medical advice or diagnosis. The Insights it shows are informational correlations
 only. Always consult a qualified healthcare professional about symptoms or dietary
 decisions.
