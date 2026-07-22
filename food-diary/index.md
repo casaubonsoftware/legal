@@ -2,14 +2,15 @@
 ---
 # Privacy Policy — How I Ate
 
-**Last updated: 21 July 2026**
+**Last updated: 23 July 2026**
 
 This Privacy Policy explains how the **How I Ate** mobile app ("the App", "we",
 "us") collects, uses, and protects your information. How I Ate lets you log meals
 by photo and record digestive symptoms to help you spot patterns over time.
 
-The App is provided by **Casaubon B.V.**, based in **the Netherlands**. If you have
-any questions, contact us at **support@casaubonsoftware.nl**.
+The App is provided by **Casaubon B.V.**, based in **the Netherlands**. Your use of
+the App is also governed by our [Terms of Use](terms.html). If you have any questions,
+contact us at **support@casaubonsoftware.nl**.
 
 ---
 
@@ -49,10 +50,9 @@ Data is shared with them only to provide the service:
 - **Supabase** — hosts our database, authentication, and the private storage bucket
   where your meal photos are kept. Your data is protected by row-level security so
   one account cannot read another's data.
-- **AI vision provider** — when you ask the App to analyse a meal photo, that photo
-  is sent to our configured AI provider (**Anthropic (Claude)** by default) purely
-  to return a list of food components. *(If you have configured a different provider,
-  name it here.)*
+- **Together AI** — when you ask the App to analyse a meal photo, that photo is sent
+  to **Together AI** (together.ai), based in the United States, purely to return a
+  list of food components.
 - **RevenueCat** — manages subscription status and validates purchases.
 - **Google Play / Apple App Store** — process subscription payments. We never
   receive your full payment card details.
